@@ -22,6 +22,9 @@ which are trained using Transfer Learning on VGG model.  <br />
 The models which are performing hyperparameter tuning we have created a separate branch for VGG and submitted the files over there. <br />
 File path: [HypterParameter Tuning Notebooks](/VGG/VGGnetProject-dataset1.ipynb)
 
+And For the Transfer learning we have been working on VGG model so those will be in VGG folder of main branch.
+File name is ended with "pre" which represents pre-trained model.
+
 ## Sample Datasets ##
 
 We have used 3 datasets for which external links are available as below:
