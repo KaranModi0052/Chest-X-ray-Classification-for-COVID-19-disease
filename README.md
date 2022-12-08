@@ -18,7 +18,9 @@ Each folder mentioned above contains 3 files and which are separated for each Da
 
 There is also a folder named "Transfer Learning" which conaines two jupyter notebook
 which are trained using Transfer Learning on VGG model.  <br />
-   
+
+The models which are performing hyperparameter tuning we have created a separate branch for VGG and submitted the files over there. <br />
+File path: [HypterParameter Tuning Notebooks](/VGG/VGGnetProject-dataset1.ipynb)
 
 ## Sample Datasets ##
 
