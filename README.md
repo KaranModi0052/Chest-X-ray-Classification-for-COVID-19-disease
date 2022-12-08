@@ -9,7 +9,7 @@ This repository contains mainly related three things. <br />
 1. Trained Models <br />
 2. Sample Datasets <br />
 3. Documentations<br />
-
+4. Assignment Submissions <br />
 ## Trained Models ##
 
 There are 3 folders named: [AlexNet](/AlexNet), [ResNet](/ResNet), [VGG](/VGG). These folders contains 3 jupyter notebooks in which we have trained our models. <br />
@@ -47,21 +47,20 @@ All These documents are also uploaded in Google Drive and Can be accessed via fo
 COMP6721 - Google Drive : https://drive.google.com/drive/folders/1GuBSWvpRnsIDhf6GHlDbZSVSPUTkGQKQ?usp=share_link
 
 
-## How to train models for testing ##
-
-To test the dataset following steps can be followed:  <br />
-
-Step 1 : Clone the repository or download code from Google Drive  <br />
-
-Step 2 : Models can be created by changing path and epoch size as per the testing purposes.
-
-Step 3 : 
-
-In all the models except Dataset 3, 
-
-
 ## Dependencies ##
 
-All the models are running on s
+All the models are running on jupyter notebooks. 
+
+And there are following libraries used:
+
+torch <br />
+torchvision<br />
+cv2<br />
+torch.optim<br />
+matplotlib<br />
+numpy<br />
+torch.cuda<br />
+torch.utils<br />
+
 
 
