@@ -1,4 +1,4 @@
-# COMP6721_Group_D
+# Chest X-ray Classification for COVID-19 disease
 
 Project Repository for Comp 6721 - Applied Artificial Intelligence
 
